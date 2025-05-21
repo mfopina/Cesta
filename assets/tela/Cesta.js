@@ -1,5 +1,5 @@
 import React from "react";
-import {Image, Text, StyleSheet, Dimensions, View} from "react-native";
+import {Image, Text, StyleSheet, Dimensions, View} from "react-native-web";
 import topo from '../../topo.png';
 import logo from '../../logo.png';
 const altura = Dimensions.get('screen').width;
