@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { StatusBar, StyleSheet, SafeAreaView } from 'react-native';
+import { StatusBar, StyleSheet, SafeAreaView } from 'react-native-web';
 
 import Cesta from './assets/tela/Cesta';
 
